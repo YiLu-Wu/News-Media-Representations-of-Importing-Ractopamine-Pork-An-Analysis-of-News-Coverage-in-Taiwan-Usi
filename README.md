@@ -1,0 +1,2 @@
+# News-Media-Representations-of-Importing-Ractopamine-Pork-An-Analysis-of-News-Coverage-in-Taiwan-Usi
+In this project, we analyzed the standpoint of importing ractopamine pork in different news media. We collected the news including “Ractopamine Pork” and used a pre-trained model to implement classification task. Finally, we filtered out biased news medias to help people enhancing the capability of media literacy.
